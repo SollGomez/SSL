@@ -19,4 +19,4 @@
    - Seleccione, instale, y configure, y pruebe un compilador C11 o **C18**
    - Ejecute el programa con la salida redireccionada a un archivo output.txt; verifique su contenido.
 4. Publicación
-5. Armado de Equipo **(Numero 8)**
+5. Armado de Equipo **(Número 8)**
